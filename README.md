@@ -12,4 +12,10 @@ Aplikasi web sederhana untuk mendata warga menggunakan **PHP** dan **MySQL**. Co
 ---
 
 ## 📁 Struktur Folder
+/project-folder
+│
+├── index.php          # Halaman utama (form input dan tampilan data)
+├── functions.php      # File fungsi-fungsi (koneksi dan manipulasi database)
+└── README.md          # Dokumentasi proyek ini
+
 
